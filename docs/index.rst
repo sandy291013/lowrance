@@ -1,4 +1,4 @@
-Lowrance GPS Update and Firmware Troubleshooting Guide
+How to Update Lowrance GPS and Firmware Troubleshooting Guide
 =======================================================
 
 
